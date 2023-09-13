@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Pablo2048&style=plastic)
+
 <!--
 **Pablo2048/Pablo2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
