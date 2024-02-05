@@ -2,6 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Pablo2048&style=plastic)
 
+<a href="https://github.com/Pablo2048">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pablo2048&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo2048&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
+
 <!--
 **Pablo2048/Pablo2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
